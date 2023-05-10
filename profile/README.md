@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1>🌏 GDSE 66 Project Zone 🌏</h1>
+<br>
+<p>This zone is reserved for GDSE 66 students for their project resources.</p>
+<small>Hope you will find something usefull in this place 😊 ✌🏻</small>
+<small>| 2023</small>
